@@ -1,0 +1,2 @@
+# roleControll-tokenAndRedis
+用户角色权限控制 加入资源表基础上实现token生成集成redis和对资源进行权限分配。
